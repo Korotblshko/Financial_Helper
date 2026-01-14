@@ -1,0 +1,12 @@
+USER bob qwerty
+BALANCE 80000.0
+OPERATION Доход: +200000.0 (Темки)
+OPERATION Расход: -100000.0 (Квартира)
+OPERATION Расход: -20000.0 (Еда)
+---
+USER alice 12345
+BALANCE 18000.0
+OPERATION Доход: +60000.0 (ЗП)
+OPERATION Расход: -2000.0 (Зал)
+OPERATION Расход: -40000.0 (Квартира)
+---
